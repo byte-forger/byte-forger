@@ -17,22 +17,30 @@
 
 ### 🧭 About Me
 
-- 🔭 Currently working on **[project name — replace me]**
-- 🌱 Learning **[skill/tech — replace me]**
-- 💡 Interested in **backend systems, developer tooling, and clean architecture**
-- 📫 Reach me at **[your-anon-email or LinkedIn]**
-- ⚡ Fun fact: **[something short and personal, optional]**
+- 📊 Aspiring **Data Analyst** — Turning raw data into Decisions
+- 🔭 Currently working on **[Data Cleaning & Exploratory Data Analysis
+Python (Pandas)**
+- 🌱 Learning **SQL optimization / Power BI / statistics — pick what's true**
+- 💡 Interested in **data visualization, business intelligence, and predictive analytics**
+- 🧰 Comfortable with **Python (Pandas, NumPy), SQL, Excel, and dashboarding tools**
+- 📫 Reach me at **gorohafek1@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,java,cpp,git,docker,linux,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,tableau,powerbi,jupyter,git" />
 </p>
 
-> Replace the icon list above with your actual stack — full list of supported icons: https://skillicons.dev
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white" />
+</p>
 ---
 
 ### 📌 Pinned Projects
