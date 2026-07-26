@@ -45,8 +45,6 @@ Python (Pandas)**
 
 ### 📌 Pinned Projects
 
-> These auto-update once you pin repos from your profile — go to **Customize your pins** on your GitHub homepage.
-
 <p align="left">
   <a href="https://github.com/byte-forger/project-one">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=byte-forger&repo=project-one&theme=default" />
