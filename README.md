@@ -30,16 +30,18 @@ Python (Pandas)**
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,tableau,powerbi,jupyter,git" />
+  <img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,git" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logoColor=white" />
 </p>
 ---
 
