@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: byte-forger
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?color_snake=#2a5298&color_dots=#1e3c72,#2a5298,#3f6fc4,#6b93e0,#a8c3f0&color_empty=#0d1117
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake to output branch
