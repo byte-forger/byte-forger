@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Byte-Forger&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Forging%20ideas%20into%20code&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Byte-Forger&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Forging%20insight%20from%20raw%20data&descAlignY=55&descSize=18" />
 </h1>
 
 <p align="center">
