@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Byte%20Forger&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Forging%20ideas%20into%20code&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Byte-Forger&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Forging%20ideas%20into%20code&descAlignY=55&descSize=18" />
 </h1>
 
 <p align="center">
@@ -18,9 +18,8 @@
 ### 🧭 About Me
 
 - 📊 Aspiring **Data Analyst** — Turning raw data into Decisions
-- 🔭 Currently working on **[Data Cleaning & Exploratory Data Analysis
-Python (Pandas)**
-- 🌱 Learning **SQL optimization / Power BI / statistics — pick what's true**
+- 🔭 Currently working on **Data Cleaning & Exploratory Data Analysis using Python (Pandas)**
+- 🌱 Learning **SQL optimization / Power BI / statistics**
 - 💡 Interested in **data visualization, business intelligence, and predictive analytics**
 - 🧰 Comfortable with **Python (Pandas, NumPy), SQL, Excel, and dashboarding tools**
 - 📫 Reach me at **gorohafek1@gmail.com**
@@ -43,6 +42,7 @@ Python (Pandas)**
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logoColor=white" />
 </p>
+
 ---
 
 ### 📌 Pinned Projects
@@ -77,7 +77,7 @@ Python (Pandas)**
   <img src="https://raw.githubusercontent.com/byte-forger/byte-forger/output/github-contribution-grid-snake.svg" />
 </p>
 
-> This animates your real contribution graph as a snake. Setup takes 2 minutes — instructions below.
+> This animates your real contribution graph as a snake. Setup takes 2 minutes.
 
 ---
 
