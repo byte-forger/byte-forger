@@ -60,18 +60,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byte-forger&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" height="165" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byte-forger&theme=default&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byte-forger&theme=default&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=byte-forger&theme=minimal&hide_border=true" width="100%" />
-</p>
----
 
 ### 🐍 Contribution Snake
 
