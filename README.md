@@ -66,14 +66,8 @@
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/byte-forger/byte-forger/output/github-contribution-grid-snake.svg" />
-</p>
-
-> This animates your real contribution graph as a snake. Setup takes 2 minutes.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byte-forger/byte-forger/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byte-forger/byte-forger/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/byte-forger/byte-forger/output/github-contribution-grid-snake.svg" />
+</picture>
