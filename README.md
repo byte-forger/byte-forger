@@ -61,10 +61,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byte-forger&hide_border=true&cache_seconds=86400&background=0d1117&ring=2a5298&fire=2a5298&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=byte-forger&bg_color=0d1117&color=c9d1d9&line=2a5298&point=ffffff&area=true&area_color=1e3c72&hide_border=true" width="100%" />
 </p>
 
