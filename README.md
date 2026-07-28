@@ -164,7 +164,7 @@ Analyzed 260,000+ rows of supermarket transaction data using R to uncover custom
 ### 🟣 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=byte-forger&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=byte-forger&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&count_private=true"/>
 </p>
 
 ---
