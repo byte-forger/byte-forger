@@ -28,7 +28,7 @@ I'm a data-focused who enjoys turning messy, raw datasets into clear, actionable
 
 I approach analysis with a product mindset: every chart or model exists to answer a real question for a real decision-maker, not to sit in a notebook.
 
-**🎯 Open To:** Data Analyst / Junior Data Scientist roles · Freelance analytics projects · Open-source data tooling contributions
+**🎯 Open To:** Data Analyst / Junior Data Scientist roles · Freelance analytics projects · <!--Open-source data tooling contributions-->
 
 ---
 
@@ -72,14 +72,14 @@ I approach analysis with a product mindset: every chart or model exists to answe
 | Statistics for Analytics | Learning | Descriptive stats, hypothesis testing basics |
 | Machine Learning Foundations | Exploring | scikit-learn basics, regression/classification |
 
-> *Replace status/details honestly as your skills develop — this table should always reflect what you can defend in an interview.*
+
 
 ---
 
 ### 🟣 Featured Projects
 
 <details>
-<summary><b>📊 Project One — [Replace with real project name]</b></summary>
+<summary><b>📊 Project One — [Retail Sales Analysis]</b></summary>
 <br/>
 
 [One paragraph describing the real problem, dataset, and what you did]
@@ -95,7 +95,7 @@ I approach analysis with a product mindset: every chart or model exists to answe
 </details>
 
 <details>
-<summary><b>📈 Project Two — [Replace with real project name]</b></summary>
+<summary><b>📈 Project Two — [Interactive Sales/Business Dashboard]</b></summary>
 <br/>
 
 [One paragraph description]
@@ -110,24 +110,6 @@ I approach analysis with a product mindset: every chart or model exists to answe
 
 </details>
 
-> *Remove any project card until it's a real, pushed repo — an empty collapsible looks worse than fewer, real ones.*
-
----
-
-### 🟣 Experience
-
-**[Your Role — e.g. Data Analyst Intern]**
-**[Company Name]** · [Start Month Year] – [End Month Year / Present]
-
-[One or two sentences on what the team/company does and your role in it]
-
-- [Real bullet: what you actually did — e.g. "Cleaned and analyzed customer datasets to support monthly reporting"]
-- [Real bullet]
-- [Real bullet]
-
-`Python` `SQL` `Excel` `[other real tools used]`
-
-> *Fill this in with your actual internship — real scope, real tools, real outcomes only.*
 
 ---
 
@@ -137,16 +119,6 @@ I approach analysis with a product mindset: every chart or model exists to answe
 
 <!--
 <img src="https://img.shields.io/badge/AWS-Certified-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
--->
-
----
-
-### 🟣 Coding Profiles
-
-> *Add only profiles with real activity/rating. Delete this section if you haven't built up activity on these platforms yet.*
-
-<!--
-<img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=flat-square&logo=leetcode&logoColor=white"/>
 -->
 
 ---
