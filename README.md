@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Location-Add_Yours-6D28D9?style=flat-square&labelColor=1e1b2e"/>
+<img src="https://img.shields.io/badge/📍_Location-India-6D28D9?style=flat-square&labelColor=1e1b2e"/>
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6D28D9?style=flat-square&labelColor=1e1b2e"/>
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=flat-square&logo=linkedin&logoColor=white&labelColor=1e1b2e"/>
 <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=flat-square&logo=gmail&logoColor=white&labelColor=1e1b2e"/>
