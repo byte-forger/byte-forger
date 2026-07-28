@@ -72,44 +72,41 @@ I approach analysis with a product mindset: every chart or model exists to answe
 | Statistics for Analytics | Learning | Descriptive stats, hypothesis testing basics |
 | Machine Learning Foundations | Exploring | scikit-learn basics, regression/classification |
 
-
-
 ---
 
 ### 🟣 Featured Projects
 
 <details>
-<summary><b>📊 Project One — [Retail Sales Analysis]</b></summary>
+<summary><b>📊 Retail Sales Analysis</b></summary>
 <br/>
 
-[One paragraph describing the real problem, dataset, and what you did]
+Analyzed retail sales data to uncover trends in revenue, top-selling products, and regional performance, using SQL for data aggregation and Excel for reporting.
 
 | Aspect | Detail |
 |---|---|
-| Stack | Python, Pandas, Matplotlib |
-| Scale | [e.g. 50k rows, 12 features] |
-| Focus | Data cleaning + exploratory analysis |
-| Outcome | [One concrete insight or finding] |
-| Repository | [link once pushed] |
+| Stack | SQL, Excel |
+| Focus | Revenue trends, top-selling products, regional performance |
+| Techniques | SQL joins & aggregations across multiple tables, filtering by date/region |
+| Deliverables | Excel pivot-table reports summarizing monthly sales and customer segments |
+| Repository | [add link once pushed] |
 
 </details>
 
 <details>
-<summary><b>📈 Project Two — [Interactive Sales/Business Dashboard]</b></summary>
+<summary><b>📈 Interactive Sales & Business Dashboard</b></summary>
 <br/>
 
-[One paragraph description]
+Designed an interactive dashboard to visualize key business KPIs, sales trends, and customer behavior, enabling stakeholders to explore data dynamically.
 
 | Aspect | Detail |
 |---|---|
-| Stack | [tools used] |
-| Scale | [dataset size] |
-| Focus | [what the project explores] |
-| Outcome | [insight/result] |
-| Repository | [link once pushed] |
+| Stack | Power BI, Tableau Public |
+| Focus | KPI visualization, sales trends, customer behavior |
+| Techniques | Interactive filters and drill-downs by region, time period, and product category |
+| Impact | Supported data-driven decision-making through clear business metric reporting |
+| Repository | [add link once pushed] |
 
 </details>
-
 
 ---
 
@@ -167,13 +164,8 @@ Analyzed 260,000+ rows of supermarket transaction data using R to uncover custom
 ### 🟣 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=byte-forger&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&border_radius=10" height="165"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=byte-forger&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
 </p>
-
 ---
 
 ### 🟣 GitHub Trophies
