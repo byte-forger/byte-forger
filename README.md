@@ -169,11 +169,13 @@ Analyzed 260,000+ rows of supermarket transaction data using R to uncover custom
 
 ---
 
+<!--
 ### 🟣 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=byte-forger&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
+-->
 
 ---
 
