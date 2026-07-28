@@ -113,9 +113,50 @@ I approach analysis with a product mindset: every chart or model exists to answe
 
 ---
 
-### 🟣 Certifications
+### 🟣 Job Simulations & Certifications (Forage)
 
-> *Add only certifications you actually hold. Delete this section entirely if none yet — an empty or fabricated cert section is worse than no section.*
+<details>
+<summary><b>💼 JPMorgan Chase & Co. — Software Engineering Virtual Simulation</b></summary>
+<br/>
+
+Completed a self-paced job simulation replicating the day-to-day tasks of a junior financial software engineer.
+
+- Interfaced with real-time financial data feeds to build automated alerting and visualization systems for traders
+- Gained practical exposure to enterprise data architectures, streaming protocols, and dashboard engineering
+
+`Data Feeds` `Alerting Systems` `Dashboard Engineering` `Enterprise Architecture`
+
+</details>
+
+<details>
+<summary><b>📊 Deloitte Australia — Data Analytics Virtual Simulation</b></summary>
+<br/>
+
+Completed a forensic data analytics simulation mimicking the consulting workflow for enterprise clients.
+
+- Built an interactive dashboard in Tableau to analyze complex telemetry datasets and pinpoint machine downtime trends
+- Executed data cleaning, structural classification, and forensic analysis using advanced MS Excel spreadsheet techniques
+
+`Tableau` `Forensic Analytics` `Excel` `Data Cleaning`
+
+</details>
+
+<details>
+<summary><b>🛒 Quantium — Data Analytics Virtual Simulation</b></summary>
+<br/>
+
+Analyzed 260,000+ rows of supermarket transaction data using R to uncover customer purchasing behavior and trends.
+
+- Conducted statistical A/B testing and uplift analysis to evaluate commercial impact of trial store layouts against control baselines
+- Created executive-ready data visualizations and reports using the Pyramid Principle to deliver strategic category insights
+
+`R` `A/B Testing` `Statistical Analysis` `Executive Reporting`
+
+</details>
+
+> All simulations completed via [Forage](https://www.theforage.com) — self-paced, project-based programs modeling real industry workflows.
+
+---
 
 <!--
 <img src="https://img.shields.io/badge/AWS-Certified-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
