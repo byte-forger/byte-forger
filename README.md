@@ -167,13 +167,6 @@ Analyzed 260,000+ rows of supermarket transaction data using R to uncover custom
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=byte-forger&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=byte-forger&bg_color=0d1117&color=c9d1d9&line=A78BFA&point=ffffff&area=true&area_color=6D28D9&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/byte-forger/byte-forger/output/github-contribution-grid-snake.svg?v=2"/>
-</p>
 ---
 
 ### 🟣 GitHub Trophies
