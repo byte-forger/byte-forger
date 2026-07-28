@@ -187,9 +187,7 @@ Analyzed 260,000+ rows of supermarket transaction data using R to uncover custom
 
 ### 🟣 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/byte-forger/byte-forger/output/github-contribution-grid-snake.svg?v=2"/>
-</p>
+<img src="https://raw.githubusercontent.com/byte-forger/byte-forger/output/github-contribution-grid-snake.svg?v=3"/>
 
 ---
 
