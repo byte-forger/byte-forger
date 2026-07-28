@@ -182,7 +182,7 @@ Analyzed 260,000+ rows of supermarket transaction data using R to uncover custom
 ### 🟣 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=byte-forger&bg_color=0d1117&color=c9d1d9&line=A78BFA&point=ffffff&area=true&area_color=6D28D9&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=byte-forger&bg_color=0d1117&color=c9d1d9&line=A78BFA&point=ffffff&area=true&area_color=6D28D9&hide_border=true&count_private=true" width="100%"/>
 </p>
 
 ---
