@@ -18,7 +18,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: byte-forger
-          outputs: "dist/github-contribution-grid-snake.svg?palette=dark-blue"
+          outputs: "dist/github-contribution-grid-snake.svg?color_snake=%23A78BFA&color_dots=%230d1117,%236D28D9,%237C3AED,%23A78BFA,%23DDD6FE&color_empty=%230d1117"
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
