@@ -24,7 +24,7 @@
 
 ### 🟣 About Me
 
-I'm a data-focused engineer who enjoys turning messy, raw datasets into clear, actionable insight. My work centers on data cleaning, exploratory analysis, and building dashboards that make decisions easier — with a growing focus on the statistical and machine-learning methods that turn description into prediction.
+I'm a data-focused who enjoys turning messy, raw datasets into clear, actionable insight. My work centers on data cleaning, exploratory analysis, and building dashboards that make decisions easier — with a growing focus on the statistical and machine-learning methods that turn description into prediction.
 
 I approach analysis with a product mindset: every chart or model exists to answer a real question for a real decision-maker, not to sit in a notebook.
 
