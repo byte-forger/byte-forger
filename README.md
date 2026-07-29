@@ -5,13 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Dashboards%2C+dataframes%2C+and+decisions.;I+don't+guess+-+I+analyze.;Turning+raw+data+into+insight." />
 
 <br/>
-
-<img src="https://img.shields.io/badge/📍_Location-India-6D28D9?style=flat-square&labelColor=1e1b2e"/>
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6D28D9?style=flat-square&labelColor=1e1b2e"/>
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=flat-square&logo=linkedin&logoColor=white&labelColor=1e1b2e"/>
-<img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=flat-square&logo=gmail&logoColor=white&labelColor=1e1b2e"/>
-<img src="https://img.shields.io/badge/GitHub-Follow-6D28D9?style=flat-square&logo=github&logoColor=white&labelColor=1e1b2e"/>
-
+<img src="https://img.shields.io/badge/📍_Location-India-6D28D9?style=flat-square&labelColor=1e1b2e"/> <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6D28D9?style=flat-square&labelColor=1e1b2e"/> <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=flat-square&logo=linkedin&logoColor=white&labelColor=1e1b2e"/> <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=flat-square&logo=gmail&logoColor=white&labelColor=1e1b2e"/> <img src="https://img.shields.io/badge/GitHub-Follow-6D28D9?style=flat-square&logo=github&logoColor=white&labelColor=1e1b2e"/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=byte-forger&label=Profile%20Views&color=6D28D9&style=flat-square"/>
