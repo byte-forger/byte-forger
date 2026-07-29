@@ -14,10 +14,11 @@
 </p>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=byte-forger&label=Profile%20Views&color=6D28D9&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/byte-forger?label=Followers&style=flat-square&color=6D28D9&labelColor=1e1b2e"/>
-<img src="https://img.shields.io/github/stars/byte-forger?label=Stars&style=flat-square&color=6D28D9&labelColor=1e1b2e"/>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=byte-forger&label=Profile+Views&color=1e1b2e&style=for-the-badge&labelColor=1e1b2e&base=0"/>
+<img src="https://img.shields.io/github/followers/byte-forger?label=Followers&style=for-the-badge&color=1e1b2e&labelColor=1e1b2e"/>
+<img src="https://img.shields.io/github/stars/byte-forger?label=Stars&style=for-the-badge&color=1e1b2e&labelColor=1e1b2e"/>
+</p>
 </div>
 
 ---
