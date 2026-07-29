@@ -5,7 +5,13 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Dashboards%2C+dataframes%2C+and+decisions.;I+don't+guess+-+I+analyze.;Turning+raw+data+into+insight." />
 
 <br/>
-<img src="https://img.shields.io/badge/📍_Location-India-6D28D9?style=flat-square&labelColor=1e1b2e"/> <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6D28D9?style=flat-square&labelColor=1e1b2e"/> <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=flat-square&logo=linkedin&logoColor=white&labelColor=1e1b2e"/> <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=flat-square&logo=gmail&logoColor=white&labelColor=1e1b2e"/> <img src="https://img.shields.io/badge/GitHub-Follow-6D28D9?style=flat-square&logo=github&logoColor=white&labelColor=1e1b2e"/>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/India-1e1b2e?style=for-the-badge&logo=googlemaps&logoColor=A78BFA"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-1e1b2e?style=for-the-badge&logo=vercel&logoColor=A78BFA"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-1e1b2e?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-1e1b2e?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-1e1b2e?style=for-the-badge&logo=github&logoColor=A78BFA"/></a>
+</p>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=byte-forger&label=Profile%20Views&color=6D28D9&style=flat-square"/>
